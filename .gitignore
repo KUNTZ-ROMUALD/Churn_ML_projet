@@ -1,0 +1,7 @@
+# Environnements virtuels
+venv/
+.env/
+
+# Config éditeurs
+.vscode/
+.idea/
